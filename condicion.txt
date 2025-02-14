@@ -1,0 +1,21 @@
+Condiciones
+
+1- Mantener el registro de los proyectos de la empresa (Nombre en clave, denominación comercial, fecha de inicio, fecha finalización, estado actual).
+
+2- gestionar los recursos humanos de la empresa y le permita al usuario le permita visualizar la ficha de cada empleado (DNI, nombre, apellido, dirección, teléfono, correo electrónico, fecha contratación).
+
+3- tiene que tener un monitor el cual será un empleado de la empresa, el cual será jefe de proyecto durante la duración del mismo.
+
+4- descomponerlo por tareas documentación (documento de especificación de requisitos, el código fuente de un componente).
+
+5- los empleados de la empresa se adscriben a la distintas tareas en las que se descomponen los proyectos que estén en marcha en cada momento.
+
+6- los asociados de cada tarea se genera una serie de documentación (el documento de especificación de requisitos, el código fuente de un componente).
+
+7- Documento caracterizado por su código (único en el ámbito de proyecto al cual constituye) con su descripción y tipo
+
+8- el programa también se encarga de almacenar la nueva información que valla recibiendo a lo largo del proyecto 
+
+9- a cada versión del documento se genere a lo largo del proyecto, el programa se le asocia también una descripción y una fecha.     
+ 
+profe lo envió por aquí porque tengo problemas para abrir Word 
